@@ -1,0 +1,6 @@
+1) When sorting the schools based on student size, the overall passing rate for the smaller schools
+was greater than the overall passing rates of the larger schools. 
+
+2) When examining school spending and allocation per student, the $550-$600 spend per student ended up 
+with a higher overall passing rate than spending $650-$1100 per kid. Efficiency in spending is more 
+important than simply pressing more money into each kid. 
